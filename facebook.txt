@@ -1,17 +1,12 @@
 facebook-web-clients.appspot.com
 cdninstagram.com
 block-test.developerdan.com
-facebook.com
 graph.facebook.com
-m.facebook.com
 fb.com
 fbcdn.com
 fbsbx.com
 apps.fbsbx.com
-instagram.com
 graph.instagram.com
-messenger.com
-whatsapp.com
 fb.me
 fbcdn-profile-a.akamaihd.net
 instagramstatic-a.akamaihd.net
