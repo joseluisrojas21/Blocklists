@@ -163,7 +163,6 @@
 0.0.0.0 scontent.fsjc1-2.fna.fbcdn.net
 0.0.0.0 scontent.fsnc1-1.fna.fbcdn.net
 0.0.0.0 scontent.fams1-2.fna.fbcdn.net
-0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
 0.0.0.0 sphotos-a-ams.xx.fbcdn.net
 0.0.0.0 sphotos-a-atl.xx.fbcdn.net
@@ -202,7 +201,6 @@
 0.0.0.0 sphotos.xx.fbcdn.net
 0.0.0.0 sphotosbord.xx.fbcdn.net
 0.0.0.0 static.ak.fbcdn.net
-0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 video-iad3-1.xx.fbcdn.net
 0.0.0.0 vthumb.xx.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-ams2.fbcdn.net
